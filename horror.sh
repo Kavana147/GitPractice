@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "what a horror"i
+echo "what a horror"
