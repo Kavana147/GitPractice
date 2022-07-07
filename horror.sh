@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "what a horror"i
+echo "No!!! what a horror"
+
