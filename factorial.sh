@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "entered number is $1"
 num=$1
 total=1
 while [ $num -gt 0 ]
