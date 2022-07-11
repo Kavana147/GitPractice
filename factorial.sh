@@ -1,5 +1,5 @@
 #!/bin/bash
-read num
+num=$1
 total=1
 while [ $num -gt 0 ]
 do
