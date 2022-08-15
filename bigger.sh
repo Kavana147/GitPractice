@@ -1,11 +1,11 @@
 #!/bin/bash
-echo "just practicing"
-echo " enter the first numner"
-read a
-echo "enter the second number"
-read b
-echo "enter the third number"
-read c
+#echo "just practicing"
+#echo " enter the first numner"
+a=$1
+#echo "enter the second number"
+b=$2
+#echo "enter the third number"
+c=$3
 if [ $a -gt $b -a $a -gt $c ]
 then
 	echo " $a"
